@@ -1,6 +1,6 @@
 # 周深的自我介绍 <!-- 一级标题 -->
 
-<img src="https://cn.bing.com/images/search?view=detailV2&ccid=ZuGBEhm7&id=300E6BC51D6B8D2C149627F58C92F0AEE8D593B0&thid=OIP.ZuGBEhm7Tz2R43K2dba7PQHaLH&mediaurl=https%3a%2f%2fp6.qhimg.com%2ft1169cffb093284a31826dd558e.jpg&exph=1200&expw=800&q=%e5%91%a8%e6%b7%b1&FORM=IRPRST&ck=18A328A807BC0D44754B1F8609553F88&selectedIndex=44&itb=0" width="200" alt="周深"> <!-- 图片，宽度200 -->
+<img src=""C:\Users\12281\Pictures\Screenshots\屏幕截图 2026-03-19 043627.png"" width="200" alt="周深"> <!-- 图片，宽度200 -->
 
 大家好，我是**周深**，我的身份是*中国内地男歌手*。以下是我的自我介绍：
 
@@ -34,7 +34,20 @@
 
 ### 我最喜欢的一段代码 <!-- 二级标题 -->
 ```python
-# dev_skills_env.py 中的 numpy 矩阵运算
 import numpy as np
 result = np.array([1, 2, 3]) ** 2
 print(result)  # 输出 [1 4 9]
+```
+
+其中执行 `print(np.array([1, 2, 3]) ** 2)` 可输出结果 `[1 4 9]`。
+
+### 我最喜欢的环境管理工具是conda
+
+<img src="C:\Users\12281\Pictures\Screenshots\屏幕截图 2026-03-19 025219.png" width="800" alt="nlp_yzx环境运行numpy截图">
+
+### 我可以在IDE上使用我建立的虚拟环境
+<img src="C:\Users\12281\Pictures\Screenshots\屏幕截图 2026-03-19 052458.png" width="800" alt="nlp_yzx环境运行numpy截图">
+
+欧拉公式可以表示为 $e^{i\pi} + 1 = 0$，这是一个著名的等式。
+
+$$ e^{i\pi} + 1 = 0 $$
