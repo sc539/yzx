@@ -1,6 +1,6 @@
 # 周深的自我介绍 <!-- 一级标题 -->
 
-<img src=""C:\Users\12281\Pictures\Screenshots\屏幕截图 2026-03-19 043627.png"" width="200" alt="周深"> <!-- 图片，宽度200 -->
+<img src="https://github.com/sc539/yzx/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-03-19%20043627.png"width="200" alt="周深"> <!-- 图片，宽度200 -->
 
 大家好，我是**周深**，我的身份是*中国内地男歌手*。以下是我的自我介绍：
 
