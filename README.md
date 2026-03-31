@@ -1,5 +1,6 @@
 # 周深的自我介绍 <!-- 一级标题 -->
 <img src="屏幕截图 2026-03-19 043627.png" width="200" alt="周深">
+
 大家好，我是**周深**，我的身份是*中国内地男歌手*。以下是我的自我介绍：
 
 --- <!-- 分割线 -->
@@ -40,12 +41,12 @@ print(result)  # 输出 [1 4 9]
 其中执行 `print(np.array([1, 2, 3]) ** 2)` 可输出结果 `[1 4 9]`。
 
 ### 我最喜欢的环境管理工具是conda
-<img src="https://raw.githubusercontent.com/sc539/yzx/main/%E5%91%A8%E5%B9%95%E8%88%AA%E5%9B%BE2026-03-19%20043627.png" width="600" alt="基础环境运行截图">
+<img src="屏幕截图 2026-03-19 044557.png" width="600" alt="基础环境运行截图">
 
 
 ### 我可以在IDE上使用我建立的虚拟环境
-<img src="https://raw.githubusercontent.com/sc539/yzx/main/nlp_yyzx%E7%8E%AF%E5%A2%83%E8%BF%90%E8%A1%8Cnumpy%E6%88%AA%E5%9B%BE.png" width="600" alt="NumPy运行截图">
 
+<img src="屏幕截图 2026-03-19 051912.png" width="800" alt="运行截图">
 欧拉公式可以表示为 $e^{i\pi} + 1 = 0$，这是一个著名的等式。
 
 $$ e^{i\pi} + 1 = 0 $$
